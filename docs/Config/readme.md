@@ -20,3 +20,4 @@ https://www.red-gate.com/simple-talk/sysadmin/powershell/how-to-document-your-po
 https://github.blog/2016-08-22-publish-your-project-documentation-with-github-pages/  
 https://coderwall.com/p/3aamsa/sync-documentation-between-source-and-wiki-on-github  
 https://github.blog/2016-08-22-publish-your-project-documentation-with-github-pages/  
+https://github.com/daattali/beautiful-jekyll  

@@ -1,3 +1,5 @@
+##
+
 ```powershell
     ____            __           
    / __ \___  _____/ /____  _____
@@ -7,7 +9,7 @@
 ```
 
 Pester is the ubiquitous test and mock framework for PowerShell.
-#
+
 
 ```powershell
 Get-Help Pester
@@ -41,7 +43,6 @@ Get-Help about_TestDrive
 Get-Help about_Pester
 ```
 
-#
-[Pester README.md](../README.md)  
-[Pester API documentation](./api/api.html)
-#
+
+[Pester README.md](https://github.com/pester/Pester/README.md)  
+[Pester API documentation](https://github.com/pester/Pester/docs/api/api.html)
