@@ -1,5 +1,3 @@
-##
-
 ```powershell
     ____            __           
    / __ \___  _____/ /____  _____
@@ -44,5 +42,5 @@ Get-Help about_Pester
 ```
 
 
-[Pester README.md](https://github.com/pester/Pester/README.md)  
-[Pester API documentation](https://github.com/pester/Pester/docs/api/api.html)
+## [Pester README.md](https://github.com/pester/Pester/README.md)  
+## [Pester API documentation](https://github.com/pester/Pester/docs/api/api.html)
