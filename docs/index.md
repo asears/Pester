@@ -42,5 +42,5 @@ Get-Help about_Pester
 ```
 
 
-## [Pester README.md](https://github.com/pester/Pester/README.md)  
-## [Pester API documentation](https://github.com/pester/Pester/docs/api/api.html)
+## [Pester README.md](https://github.com/pester/Pester/blob/master/README.md)  
+## [Pester API documentation](https://github.com/pester/Pester/blob/master/docs/api/api.html)
